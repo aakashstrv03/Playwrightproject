@@ -8,3 +8,7 @@ test('has title', async ({ page }) => {
   await page.goto('https://www.amazon.com/'); 
 
 });
+test('has title', async ({ page }) => {
+  await page.goto('https://www.meesho.com/'); 
+
+});
